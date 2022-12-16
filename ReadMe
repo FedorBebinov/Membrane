@@ -1,0 +1,6 @@
+1) Download project from github:
+https://github.com/FedorBebinov/MembraneProj
+2) Unzip .xcodeproject
+3) Install pods: 
+- cd file/path
+- pod install
